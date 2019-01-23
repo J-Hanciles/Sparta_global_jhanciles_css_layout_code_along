@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  background-color: grey;
+}
+p {
+  margin: 0;
+}
+.top {
+  margin: 0;
+  background-color: blue;
+}
+.left {
+  background-color: tomato;
+  width: 200px;
+  height: 300px;
+  display: inline-block;
+  float: left;
+}
+.right {
+  background-color: purple;
+  width: 600px;
+  height: 300px;
+  display: inline-block;
+  float: right;
+}
+.main {
+  
+}
+.bottom {
+  background-color: brown;
+}
+.parent{
+  width: 800px;
+  margin: auto;
+}
